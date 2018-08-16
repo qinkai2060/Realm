@@ -24,7 +24,12 @@ Realm 支持类型:
   (1). 创建并全量更新:
        ![image](https://github.com/qinkai2060/Realm/blob/master/全量更新与创建.jpg?raw=true)
   (2).获取user:
-       ![image](https://github.com/qinkai2060/Realm/blob/master/全量更新与创建.jpg?raw=true)
+       ![image](https://github.com/qinkai2060/Realm/blob/master/get.jpg?raw=true)
+  (3).查询:
+      1-主键查询(上图有)
+      2-条件查询并排序
+         ![image](https://github.com/qinkai2060/Realm/blob/master/查询并排序.jpg?raw=true)
+ 
       
     
   
