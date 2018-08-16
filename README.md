@@ -1,9 +1,11 @@
 # Realm
 新的数据库 realm:
-选择他因为代码简洁 简单易上手 ,用过CoreData 都知道 本次我就介绍项目中一些简单的使用
+>选择他因为代码简洁 简单易上手 ,用过CoreData 都知道 本次我就介绍项目中一些简单的使用
 Realm 支持类型:
+  ``` c++
 （1）Realm支持以下的属性（property）种类：BOOL, bool, int, NSInteger, long, float, double, CGFloat, NSString, NSDate 和 NSData。
-（2）你可以使用 RLMArray<Object> 和 RLMObject 来模拟对一或对多的关系(Realm也支持RLMObject继承) 
+（2）你可以使用 RLMArray<Object> 和 RLMObject 来模拟对一或对多的关系(Realm也支持RLMObject继承)
+ ```
 1.创建数据
  ![image](https://github.com/qinkai2060/Realm/blob/master/creat.jpg?raw=true)
 2. 新建表
