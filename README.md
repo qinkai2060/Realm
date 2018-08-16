@@ -18,7 +18,7 @@ Realm 支持类型:
   Realm 声明主键:
     + (NSString *)primaryKey {
          return @"accountId";
-      }
+      }\n
   Realm主键不自增
 4:Realm CRUD
   (1). 创建并全量更新:
