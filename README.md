@@ -16,9 +16,12 @@ Realm 支持类型:
   某个对象作为 另外一个对象的RLMArray类型的属性 必须在RLMArray所在对象当中RRLM_ARRAY_TYPE(类名)
 3.主键
   Realm 声明主键:
-    + (NSString *)primaryKey {
+   ``` c++
+     + (NSString *)primaryKey {
          return @"accountId";
-      }\n
+      }
+   ```
+
   Realm主键不自增
 4:Realm CRUD
   (1). 创建并全量更新:
