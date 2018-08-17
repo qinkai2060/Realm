@@ -33,9 +33,9 @@ Realm 支持类型:
        ![image](https://github.com/qinkai2060/Realm/blob/master/get.jpg?raw=true)
   (3).查询:
      ######  1-主键查询删除
-          >![image](https://github.com/qinkai2060/Realm/blob/master/查询并删除.jpg?raw=true)  
+          ![image](https://github.com/qinkai2060/Realm/blob/master/查询并删除.jpg?raw=true)  
      ######  2-条件查询并排序
-          >![image](https://github.com/qinkai2060/Realm/blob/master/查询并排序.jpg?raw=true)
+          ![image](https://github.com/qinkai2060/Realm/blob/master/查询并排序.jpg?raw=true)
  
       
     
