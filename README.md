@@ -40,8 +40,8 @@ Realm 支持类型:
           ![image](https://github.com/qinkai2060/Realm/blob/master/修改.jpg?raw=true)
           
  ### 参考
-  [链接](http://www.cocoachina.com/ios/20161103/17935.html)
-  [链接](https://www.cnblogs.com/h-tao/p/7130416.html)
+  [Realm数据库 从入门到“放弃”](http://www.cocoachina.com/ios/20161103/17935.html)
+  [iOS中Realm数据库的基本用法](https://www.cnblogs.com/h-tao/p/7130416.html)
       
     
   
