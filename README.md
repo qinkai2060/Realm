@@ -16,7 +16,7 @@ Realm 支持类型:
  Realm 注释:
     ![image](https://github.com/qinkai2060/Realm/blob/master/RLMArray.jpg?raw=true)
   某个对象作为 另外一个对象的RLMArray类型的属性 必须在RLMArray所在对象当中RRLM_ARRAY_TYPE(类名)
-###3.主键
+### 3.主键
   Realm 声明主键:
    ``` c++
      + (NSString *)primaryKey {
@@ -28,6 +28,7 @@ Realm 支持类型:
 4:Realm CRUD
   (1). 创建并全量更新:
        ![image](https://github.com/qinkai2060/Realm/blob/master/全量更新与创建.jpg?raw=true)
+       ![image](https://github.com/qinkai2060/Realm/blob/master/exmpl.jpg?raw=true)
   (2).获取user:
        ![image](https://github.com/qinkai2060/Realm/blob/master/get.jpg?raw=true)
   (3).查询:
