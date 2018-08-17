@@ -26,17 +26,17 @@ Realm 支持类型:
 
   Realm主键不自增
 4:Realm CRUD
-  (1). 创建并全量更新:
+ ###### (1). 创建并全量更新:
        ![image](https://github.com/qinkai2060/Realm/blob/master/全量更新与创建.jpg?raw=true)
        ![image](https://github.com/qinkai2060/Realm/blob/master/exmpl.jpg?raw=true)
-  (2).获取user:
+###### (2).获取user:
        ![image](https://github.com/qinkai2060/Realm/blob/master/get.jpg?raw=true)
-  (3).查询:
+######  (3).查询:
        1-主键查询删除
           ![image](https://github.com/qinkai2060/Realm/blob/master/查询并删除.jpg?raw=true)  
        2-条件查询并排序
           ![image](https://github.com/qinkai2060/Realm/blob/master/查询并排序.jpg?raw=true)
-  (4). 修改:修改用户的性别
+###### (4). 修改:修改用户的性别
           ![image](https://github.com/qinkai2060/Realm/blob/master/修改.jpg?raw=true)
  
       
