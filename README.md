@@ -42,6 +42,7 @@ Realm 支持类型:
  ### 参考
   ###### [Realm数据库 从入门到“放弃”](http://www.cocoachina.com/ios/20161103/17935.html)
   ###### [iOS中Realm数据库的基本用法](https://www.cnblogs.com/h-tao/p/7130416.html)
+  ###### [深入理解 Realm 的多线程处理机制](https://www.cnblogs.com/h-tao/p/7130416.html)
       
     
   
